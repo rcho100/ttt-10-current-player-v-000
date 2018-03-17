@@ -3,3 +3,8 @@ def turn_count(board)
     position != " "
   end
 end
+
+def current_player(board)
+
+
+end
